@@ -1,18 +1,18 @@
 Create your Password
 
-Learn about the projects Seth has created through his portfolio page
+Use a password generator to create a randomized password
 ---
 Description
 
-A webpage designed to showcase various projects along with the ability to learn a little about Seth Davis 
+An application designed to help a user create a password by entering a list of catagories into select items
 ---
 Deployed URL
 
-https://sethdavis16.github.io/Seths-Portfolio/
+https://sethdavis16.github.io/Create-a-Password/
 ---
 Link to Repository
 
-https://github.com/SethDavis16/Seths-Portfolio
+https://github.com/SethDavis16/Create-a-Password
 ---
 Requirements
 
@@ -24,3 +24,4 @@ Built With
 Microsoft Visual Studio Code
 HTML5
 CSS
+JavaScript
